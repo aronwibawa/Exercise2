@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(to left, #83a4d4, #b6fbff);
+}
+h2 {
+  color: whitesmoke;
+}
+table {
+  margin: 50px auto;
+  border: none;
+  border-radius: 5px;
+  background: linear-gradient(to left, rgb(61, 61, 61), black);
+}
+#answer {
+  color: rgb(3, 119, 119);
+}
+#input,
+#answer {
+  width: 450px;
+  height: 70px;
+  font-size: 200%;
+  text-align: right;
+  border: none;
+}
+input[type="button"] {
+  height: 70px;
+  width: 106px;
+  margin: 1px;
+  font-size: 120%;
+  font-weight: 500;
+}
